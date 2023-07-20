@@ -11,13 +11,13 @@ Clone the repository to your local machine using the following command:
 git clone (https://github.com/asahai17/Part-It.git)
 
 Change your current directory to the cloned project folder:
-'''cd Part-It
+```cd Part-It
 
 Get the required Flutter dependencies:
-'''flutter pub get
+```flutter pub get
 
 Run the application on your preferred device (emulator or physical device) using the following command:
-'''flutter run
+```flutter run
 
 If everything is set up correctly, the application should now launch on your device, and you can start exploring the events.
 
