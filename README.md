@@ -8,7 +8,7 @@ The Part-It App is a Flutter-based mobile application that allows users to view 
 
 ## Steps
 Clone the repository to your local machine using the following command:
-git clone [https://github.com/your-username/event-app.git](https://github.com/asahai17/Part-It)
+git clone (https://github.com/asahai17/Part-It.git)
 
 Change your current directory to the cloned project folder:
 cd Part-It
