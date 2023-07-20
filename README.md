@@ -4,7 +4,22 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+The Part-It App is a Flutter-based mobile application that allows users to view a list of events and provides detailed information about each event. This application was developed as an assignment task for The Internet Folks. It offers a user-friendly interface to browse through various events and stay updated on their details.
+
+## Steps
+Clone the repository to your local machine using the following command:
+git clone https://github.com/your-username/event-app.git
+
+Change your current directory to the cloned project folder:
+cd event-app
+
+Get the required Flutter dependencies:
+flutter pub get
+
+Run the application on your preferred device (emulator or physical device) using the following command:
+flutter run
+
+If everything is set up correctly, the application should now launch on your device, and you can start exploring the events.
 
 A few resources to get you started if this is your first Flutter project:
 
